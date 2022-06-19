@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to 鲁香江的个人博客
 
-You can use the [editor on GitHub](https://github.com/xiangjianglu/luxiangjiang123.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人签名：
+愿你一生努力，一生被爱！愿你一直如少年，相信世间的所有美好！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人技能：
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```个人技能
+·掌握使用C++编程语言，熟悉STL下常见的容器底层数据结构，了解常见数据库MySQL。
+·熟悉常见数据结构如向量、栈、队列、链表、二叉树等。
+·熟悉基本排序算法，了解常见算法如十大排序、二分查找、双指针等。
+·熟悉OSI七层模型、TCP/IP四层模型，掌握TCP/UDP、IP、HTTP等常见协议。
+·熟悉Linux下I/O复用技术，了解epoll的两种触发模式。
+·熟悉高性能的I/O下的两种著名高效模式，能够初步使用Socket套接字进行编程。
+·熟悉Linux环境下常用的命令及相关工具的使用（gcc、gdb、vim等）。
+·熟悉不同进程、线程之间的通信与同步方式
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [我的nowcoder博客](https://blog.nowcoder.net/luxiangjiang).
 
-### Jekyll Themes
+### 个人评价：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiangjianglu/luxiangjiang123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我是一个对生活积极乐观的人，我平时热爱篮球，跑步和写博客分享自己的见解。我认为我比较符合贵单位贵公司的用人要求，我自学c++所有基础课程后使用其完成项目，我并不比计算机专业的同学差，我有我自己的优势。虽然我的履历尚显单薄，我也有不足之处，但是，在未来的工作中，我一定会更加努力！
 
-### Support or Contact
+### 竞赛经历：
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+· 蓝桥杯-嵌入式设计与开发（个人赛）
+· 四进四信演讲
+
+### 联系方式：
+
+🏠 ：湖北省武汉市
+📞 ：15827438497
+🐧 ：1259215187
