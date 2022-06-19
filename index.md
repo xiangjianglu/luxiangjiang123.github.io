@@ -30,6 +30,11 @@ For more details see ：[我的nowcoder博客](https://blog.nowcoder.net/luxiang
 
 ### 联系方式：
 
-🏠 ：湖北省武汉市
 📞 ：15827438497
+
 🐧 ：1259215187
+
+### 联系地址：
+
+🏠 ：湖北省武汉市
+
