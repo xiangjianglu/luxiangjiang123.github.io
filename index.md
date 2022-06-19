@@ -40,6 +40,25 @@ For more details see ：[My nowcoder博客](https://blog.nowcoder.net/luxiangjia
 ·蓝桥杯-嵌入式设计与开发（个人赛）-校级二等奖
 
 
+### 熟悉软件：
+
+·Visual Studio
+
+·CodeBlocks
+
+·VS Code
+
+·Xshell
+
+·Solidworks
+
+·Linux
+
+·Visio
+
+·Microsoft办公软件
+
+
 ### 联系方式：
 
 📞 ：15827438497
