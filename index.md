@@ -25,6 +25,7 @@ For more details see ：[我的nowcoder博客](https://blog.nowcoder.net/luxiang
 ### 竞赛经历：
 
 · 蓝桥杯-嵌入式设计与开发（个人赛）
+
 · 四进四信演讲
 
 ### 联系方式：
