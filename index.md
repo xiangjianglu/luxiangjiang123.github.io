@@ -1,4 +1,4 @@
-## Welcome to 鲁香江的个人博客
+## Welcome to LuXiangJiang's Personal blog
 
 ### 个人签名：
 愿你一生努力，一生被爱！愿你一直如少年，相信世间的所有美好！
