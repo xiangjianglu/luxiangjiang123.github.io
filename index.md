@@ -16,7 +16,7 @@
 ·熟悉不同进程、线程之间的通信与同步方式
 ```
 
-For more details see ：[我的nowcoder博客](https://blog.nowcoder.net/luxiangjiang).
+For more details see ：[My nowcoder博客](https://blog.nowcoder.net/luxiangjiang).
 
 ### 个人评价：
 
