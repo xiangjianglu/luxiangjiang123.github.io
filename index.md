@@ -56,7 +56,6 @@ For more details see ：[My nowcoder博客](https://blog.nowcoder.net/luxiangjia
 
 ·Visio
 
-·Microsoft办公软件
 
 
 ### 联系方式：
