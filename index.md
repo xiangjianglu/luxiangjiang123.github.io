@@ -37,24 +37,24 @@ For more details see ：[My nowcoder博客](https://blog.nowcoder.net/luxiangjia
 
 · 国家励志奖学金-二等奖
 
-·蓝桥杯-嵌入式设计与开发（个人赛）-校级二等奖
+· 蓝桥杯-嵌入式设计与开发（个人赛）-校级二等奖
 
 
 ### 熟悉软件：
 
-·Visual Studio
+· Visual Studio
 
-·CodeBlocks
+· CodeBlocks
 
-·VS Code
+· VS Code
 
-·Xshell
+· Xshell
 
-·Solidworks
+· Solidworks
 
-·Linux
+· Linux
 
-·Visio
+· Visio
 
 
 
